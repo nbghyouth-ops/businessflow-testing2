@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+build/
+.env
+.env.*
+!.env.example
+android/app/build/
+android/build/
+android/.gradle/
+android/local.properties
+playwright-report/
+test-results/
+coverage/
+*.log
+.DS_Store
